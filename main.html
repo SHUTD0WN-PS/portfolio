@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body onload="init();">
+		<canvas id="canvas" width="600" height="400">
+			Your browser does not support the canvas element .
+		</canvas>
+		<article>
+			Scale percentage:  <input id="slide" type="range" min="0" max="100" value="100" onChange="changescale(this.value)" step="10"/>
+			Note: slider treated as text field in some browsers.
+		</article>
+		<article>Built on <a href="http://daniemon.com/tech/html5/html5logo/" target="_blank">work by Daniel Davis, et al</a>. I did the scaling. Note also use of semantic elements.</article>
+	</body>
+	<script src="script.js"></script>
+</html>
