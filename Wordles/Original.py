@@ -83,6 +83,13 @@ txt = thing.read()
 WORDS = txt.splitlines()
 ranwordb = (random.choice(WORDS))
 
+print('''
+
+This is a clone of wordle that I have created with my friend using Python.
+Please enjoy playing with my clone!
+
+''')
+
 for x in WORDS:
     word += x.decode('utf-8')
 
