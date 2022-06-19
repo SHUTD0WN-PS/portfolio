@@ -1,3 +1,13 @@
+# Hello, this is my wordle.
+# Of course, I couldn't do this by myself.
+# I had to do research.
+# But this time, I done it by myself.
+
+
+
+
+
+
 import time
 import random
 
