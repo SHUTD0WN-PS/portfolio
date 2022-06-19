@@ -1,14 +1,18 @@
 # Unity3D Game Development
 
-Hello there!
+# Learning
 
-I hope you have tried out the html and python files. 
-Not only do I code in those languages, I also use the Unity3D game engine and C# to make games.
-Therefore, I would like to show you some of my unity games. I have uploaded them onto itch.io.
-(I have made more than the games listed below - this is just o
+Unity is something I have learnt over the past 2 years.
+I enjoy playing games but I love making games even more!
+I find Unity3D very useful. Because of the library it provides and its user-friendly tools, I am able to make:
+  3D animations in Unity
+  
 
-DODGE!!! game (It was my first game, I learned it from a tutorial made by Brackeys)
+# Links to my Unity Games
+
+I have created these links because they 
+
+Have fun playing them!
+
 https://shutd0wn-ps.itch.io/dodge-game
-
-Fruit Cutter Game
 https://shutd0wn-ps.itch.io/fruit-cutter-game
