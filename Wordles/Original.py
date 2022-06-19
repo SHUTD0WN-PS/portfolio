@@ -1,3 +1,16 @@
+# Hello, this is my wordle.
+# Of course, I couldn't do this by myself.
+# I had to do research to find out how to get a random english word.
+# And I also had some help from my friend, Kie Ren Siew. He is also applying for HCI DSA Infocomm.
+
+
+
+
+
+
+
+
+
 import random
 import time
 import sys
